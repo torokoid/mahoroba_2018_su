@@ -1,5 +1,4 @@
 # mahoroba_2018_su
-<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
