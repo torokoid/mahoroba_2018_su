@@ -43,7 +43,7 @@ body { background-color: #ccffcc; }
 	<ul class="nav">
     </ul>
 	<p id="arrow-prev" class="arrow">←</p>
-	<p id="arrow-next" class="arrow"><align="left">→</align></p>
+	<p id="arrow-next" class="arrow">→</p>
 </div>
 <!--    
 <script src="js/index.js"></script>
