@@ -32,10 +32,11 @@ for(var i = 0; i < imgList.length; i++) {
 	slide.innerHTML = "<img src='" + imgList[i] + "'>";
 	// li要素をクラス名「slider-inner」の子要素として追加
 	document.getElementsByClassName("slider-inner")[0].appendChild(slide);
-
 	// li要素を取得
 	var nav = document.createElement("li");
 	// プロパティ「data-nav-index」に数値を割り振る
+	nav.style.backgroundImage = "url(" + imgList[i] + ")";
+	nav.style.width = 100 / imgList.length + "%";
 	nav.setAttribute("data-nav-index", i);
 	// li要素をクラス名「nav」の子要素として追加
 	document.getElementsByClassName("nav")[0].appendChild(nav);
