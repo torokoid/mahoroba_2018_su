@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>まほろば_2018</title>
-<link rel="stylesheet" href="D:\Program Files (x86)\Brackets\samples\ja\本当によくわかるJavaScriptの教科書\chap8\lesson1\sample\sample8_1_1\css/reset.css">
-<link rel="stylesheet" href="D:\Program Files (x86)\Brackets\samples\ja\本当によくわかるJavaScriptの教科書\chap8\lesson1\sample\sample8_1_1\css/layout.css">  
+<link rel="stylesheet" href="https://github.com/torokoid/mahoroba_2018_su/reset.css">
+<link rel="stylesheet" href="https://github.com/torokoid/mahoroba_2018_su/layout.css">  
 
      <style type="text/css">
 
@@ -48,7 +48,7 @@ body { background-color: #ccffcc; }
 <!--    
 <script src="js/index.js"></script>
     -->
-    <script src="D:\Program Files (x86)\Brackets\samples\ja\Getting Started\practice\js/mahoroba_2018.js">
+    <script src="https://github.com/torokoid/mahoroba_2018_su/index.js">
         </script>
         
              </body>
