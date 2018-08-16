@@ -2,7 +2,7 @@
 var imgList = [
     "https://torokoid.github.io/mahoroba_2018/No01.JPG",
     "https://torokoid.github.io/mahoroba_2018/No02.JPG",
-    "https://torokoid.github.io/mahoroba_2018_No03.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No03.JPG",
     "https://torokoid.github.io/mahoroba_2018/No04.JPG",
     "https://torokoid.github.io/mahoroba_2018/No05.JPG",
     "https://torokoid.github.io/mahoroba_2018/No06.JPG",
