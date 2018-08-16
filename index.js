@@ -1,12 +1,27 @@
 // スライダーに表示する画像のパス
 var imgList = [
-    "https://torokoid.github.io/mahoroba_2018/20180810_107.JPG",
-    "https://torokoid.github.io/mahoroba_2018/20180810_002.JPG",
-    "https://torokoid.github.io/mahoroba_2018/20180810_003.JPG",
-    "https://torokoid.github.io/mahoroba_2018/20180810_004.JPG",
-    "https://torokoid.github.io/mahoroba_2018/20180810_005.JPG",
-    "https://torokoid.github.io/mahoroba_2018/20180810_010.JPG",
-    "https://torokoid.github.io/mahoroba_2018/20180810_118.JPG"
+    "https://torokoid.github.io/mahoroba_2018/No01.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No02.JPG",
+    "https://torokoid.github.io/mahoroba_2018_No03.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No04.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No05.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No06.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No07.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No08.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No09.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No10.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No11.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No12.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No13.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No14.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No15.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No16.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No17.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No18.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No19.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No20.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No21.JPG",
+    "https://torokoid.github.io/mahoroba_2018/No22.JPG"
 ];
 
 // 画像とナビの要素を自動で追加
