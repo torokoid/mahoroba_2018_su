@@ -34,7 +34,8 @@ body { background-color: #ccffcc; }
 </head>
 
 <body>
-
+<div style="background-color:rgb(255,255,255,0.5);">
+<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">TOP</a>&gt;<a href="https://torokoid.github.io/mahoroba_2018/">mahoroba_2018</a>&gt;mahoroba_2018_su</p></div>
 
 <div class="slider">
 	<ul class="slider-inner">
